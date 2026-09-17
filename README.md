@@ -52,3 +52,25 @@ Tenho interesse em desenvolvimento backend, testes de software e APIs, buscando 
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
+
+## 🧪 Quality Assurance
+
+Tenho conhecimentos e experiência acadêmica com:
+
+- 🔌 Testes de APIs
+- 📮 Postman
+- 🔄 Métodos HTTP (GET, POST, PUT, DELETE)
+- 🐞 Identificação e documentação de bugs
+- ✅ Testes funcionais
+- 🔎 Testes End-to-End
+- 📋 Requisitos funcionais e não funcionais
+
+- ## 🚀 Atualmente estudando
+
+```text
+☕ Java
+🤖 Inteligência Artificial
+🧪 Quality Assurance
+🔌 APIs REST
+🗄️ Banco de dados
+🔧 Git e GitHub
