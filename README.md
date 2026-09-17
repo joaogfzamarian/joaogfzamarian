@@ -12,7 +12,7 @@
   aprofundando meus conhecimentos em Java, Inteligência Artificial e
   Quality Assurance.
 </p>
----
+
 
 ## 🧑‍💻 Sobre mim
 
