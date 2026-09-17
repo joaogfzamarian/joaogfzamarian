@@ -90,3 +90,16 @@ Tenho conhecimentos e experiência acadêmica com:
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=joaogfzamarian&theme=tokyonight" />
 </p>
+
+---
+
+## 📫 Contato
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-gabriel-furtado-zamarian-863a3925b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:joaofzamarian@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
