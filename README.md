@@ -7,3 +7,8 @@
 <p align="center">
   🎓 Engenharia de Software • ☕ Java • 🧪 Quality Assurance
 </p>
+<p align="center">
+  Desenvolvedor em formação, apaixonado por tecnologia e atualmente
+  aprofundando meus conhecimentos em Java, Inteligência Artificial e
+  Quality Assurance.
+</p>
