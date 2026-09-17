@@ -51,6 +51,8 @@ Tenho interesse em desenvolvimento backend, testes de software e APIs, buscando 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
 </p>
 
 ## 🧪 Quality Assurance
@@ -65,12 +67,26 @@ Tenho conhecimentos e experiência acadêmica com:
 - 🔎 Testes End-to-End
 - 📋 Requisitos funcionais e não funcionais
 
-- ## 🚀 Atualmente estudando
+---
 
-```text
-☕ Java
-🤖 Inteligência Artificial
-🧪 Quality Assurance
-🔌 APIs REST
-🗄️ Banco de dados
-🔧 Git e GitHub
+## 🚀 Atualmente estudando
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Software%20Testing-6DB33F?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  Atualmente aprofundando meus conhecimentos em Java,
+  Inteligência Artificial, APIs REST e Quality Assurance.
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=joaogfzamarian&theme=tokyonight" />
+</p>
