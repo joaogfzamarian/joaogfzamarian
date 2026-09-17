@@ -12,3 +12,10 @@
   aprofundando meus conhecimentos em Java, Inteligência Artificial e
   Quality Assurance.
 </p>
+---
+
+## 🧑‍💻 Sobre mim
+
+Sou formado em Engenharia de Software e atualmente estou aprimorando meus conhecimentos em desenvolvimento de software, Java, Inteligência Artificial e Quality Assurance.
+
+Tenho interesse em desenvolvimento backend, testes de software e APIs, buscando sempre evoluir tecnicamente e transformar conhecimento em projetos práticos.
